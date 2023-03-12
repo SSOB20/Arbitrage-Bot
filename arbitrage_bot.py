@@ -9,8 +9,8 @@ exchangesData = {
         "transactionFee": 0.001
     },
     "binance": {
-        "apiKey": "",
-        "secret": "",
+        "apiKey": "D2nIz22rxj7NbOVy8RLo52vOGHV5Ab9hHiA52qg7YkNTIBAnALvhMWo3PqRb7yPT",
+        "secret": "UGkF7LfdnXKLpvqgyszJ2ZqOcV37WpHBGt2j9uAUsKPXkg1LYcxHxz7Zt51DatGP",
         "transactionFee": 0.001
     },
     "bittrex": {
@@ -19,8 +19,8 @@ exchangesData = {
         "transactionFee": 0.0025
     },
     "poloniex": {
-        "apiKey": "",
-        "secret": "",
+        "apiKey": "IED22YY1-4T059UH8-KHRVTZEP-J3INJT0L",
+        "secret": "316af0cbd50e9b999aad45a1b0e371e69914e0bae93da0ed5a7a08d15fe64c27033413126285e45d406954c52c11f73d15e67cd835fd458440e89c40dd3f5304",
         "transactionFee": 0.0025
     },
     "exmo": {
